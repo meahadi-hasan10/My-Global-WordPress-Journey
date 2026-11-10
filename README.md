@@ -1,215 +1,632 @@
 <div align="center">
 
-# From the Classroom to the Global WordPress Community
+# My Global WordPress Journey
 
-### The WordCamp Central feature of Md. Meahadi Hasan
+### From the Classroom to the Global WordPress Community
 
-*A curated publication archive documenting a WordPress Credits journey, official WordPress listings, and international republications.*
+A personal archive of my **WordPress Credits journey**, **WordCamp Central feature**, and **international article republications**.
 
 [![Original Feature](https://img.shields.io/badge/Original_Feature-1-21759B?style=for-the-badge)](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
-[![Official Listings](https://img.shields.io/badge/Official_WordPress_Listings-2-3858A7?style=for-the-badge)](#official-wordpress-listings)
-[![Republications](https://img.shields.io/badge/Documented_Republications-24-16836B?style=for-the-badge)](#international-republications)
+[![Official WordPress Listings](https://img.shields.io/badge/Official_WordPress_Listings-2-3858A7?style=for-the-badge)](#official-wordpress-presence)
+[![International Republications](https://img.shields.io/badge/International_Republications-52-147D64?style=for-the-badge)](#international-republications)
 
-**Published:** November 6, 2026 &nbsp;•&nbsp; **Last reviewed:** November 9, 2026
+**Original publication: November 6, 2026** · **Archive updated: November 10, 2026**
 
-[**Read the original feature on WordCamp Central**](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
+[**Read the Original WordCamp Central Feature**](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
 
 </div>
 
 ---
 
-## About this archive
+## The Story
 
-This repository preserves the discoverable publication history of **“A Shoutout to Meahadi Hasan: From the Classroom to the Global WordPress Community.”** The story was originally written by **Muhibul Haque** and published by **WordCamp Central** on **November 6, 2026**.
+My journey with the **WordPress Credits Program** began as part of my university's Industrial Training course. What started in the classroom grew into practical experience with open-source contributions and the global WordPress community.
 
-The feature describes how the WordPress Credits Program helped connect university learning with practical open-source contributions: photography, Bengali translations, training and documentation, community engagement, and a personal portfolio.
+On **November 6, 2026**, **WordCamp Central** published a feature about this journey, written by **Muhibul Haque**:
 
-**This is a link archive, not a collection of independent news investigations.** Most third-party pages reproduce the same original WordCamp Central story, apparently through content syndication or feed aggregation. Their inclusion does **not** imply a separate interview, editorial endorsement, or new reporting by each website.
+> **[A Shoutout to Meahadi Hasan: From the Classroom to the Global WordPress Community](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)**
 
-### At a glance
+This repository brings together that original feature, its appearances on official WordPress platforms, and a curated set of international republications in one place.
 
-| Category | Count | What it represents |
-| :-- | --: | :-- |
-| Original publication | **1** | Authored feature on WordCamp Central |
-| Official WordPress listings | **2** | WordPress.org Planet and Make WordPress's Latest Posts |
-| Third-party republications | **24** | Unique article pages on distinct other websites |
-| **Total documented article pages** | **25** | Original feature + third-party article pages, excluding the two official listings |
+## Publication Overview
 
-> **Accessibility note:** Website availability can change. Of the 24 republications, 23 were directly retrieved during review; **WGSV** was confirmed through an actual browser screenshot supplied by the subject, although automated requests timed out. Some pages may require a different network or regional access.
+| Publication type | Count | Details |
+| :--- | :---: | :--- |
+| **Original feature** | **1** | WordCamp Central |
+| **Official WordPress listings** | **2** | WordPress.org Planet and Make WordPress |
+| **International republications** | **52** | Distinct third-party article pages |
+| **Total article pages** | **53** | Original feature + 52 republications |
+
+*The two official listing pages are not counted as separate articles. Third-party republications reproduce the original story rather than constituting independent news reporting.*
 
 ## Contents
 
-- [Original WordCamp Central feature](#original-wordcamp-central-feature)
-- [Official WordPress listings](#official-wordpress-listings)
-- [International republications](#international-republications)
-- [Evidence snapshots](#evidence-snapshots)
-- [Publication background](#publication-background)
-- [Verification and archive policy](#verification-and-archive-policy)
-- [About Meahadi Hasan](#about-meahadi-hasan)
-- [Credits and attribution](#credits-and-attribution)
+- [The Story](#the-story)
+- [Publication Overview](#publication-overview)
+- [Official WordPress Presence](#official-wordpress-presence)
+- [Original WordCamp Central Feature](#01--original-wordcamp-central-feature)
+- [Official WordPress Listings](#02--official-wordpress-listings)
+- [International Republications](#international-republications)
+- [WordPress Credits & Contributions](#wordpress-credits--contributions)
+- [Journey Timeline](#journey-timeline)
+- [About Me](#about-me)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## Original WordCamp Central feature
+## Official WordPress Presence
 
-> ### A Shoutout to Meahadi Hasan: From the Classroom to the Global WordPress Community
->
-> **Publisher:** WordCamp Central  
-> **Author:** [Muhibul Haque](https://central.wordcamp.org/news/author/devmuhib/)  
-> **Date:** November 6, 2026  
-> **Categories:** WordPress Credits, WordPress Education  
-> **Type:** Original feature
->
-> **[Read the complete original article](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)**
+### 01 · Original WordCamp Central Feature
 
-The original article is the **primary source** for this archive. Other links should be considered republications or references unless they demonstrably contain original reporting.
+| Detail | Information |
+| :--- | :--- |
+| **Article** | [A Shoutout to Meahadi Hasan: From the Classroom to the Global WordPress Community](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/) |
+| **Publisher** | [WordCamp Central](https://central.wordcamp.org/) |
+| **Author** | [Muhibul Haque](https://central.wordcamp.org/news/author/devmuhib/) |
+| **Published** | November 6, 2026 |
+| **Focus** | WordPress Credits, open-source contributions, and community engagement |
 
-## Official WordPress listings
+### 02 · Official WordPress Listings
 
-These two pages belong to the WordPress project's official ecosystem. They *surface* the original article; they are **not** separate original articles.
+1. **[WordPress.org Planet — Feature Listing](https://planet.wordpress.org/#:~:text=A%20Shoutout%20to%20Meahadi%20Hasan)**  
+   The WordPress community's official feed aggregator, featuring the original WordCamp Central story.
 
-1. **[WordPress.org Planet — article listing](https://planet.wordpress.org/#:~:text=A%20Shoutout%20to%20Meahadi%20Hasan)**  
-   Official WordPress feed aggregator. The article appears in the **November 6, 2026** entries, with its text and a link to WordCamp Central.
+2. **[Make WordPress — Latest Posts](https://make.wordpress.org/latest/#:~:text=A%20Shoutout%20to%20Meahadi%20Hasan)**  
+   The official WordPress project updates index, where the feature appeared under WordPress Central.
 
-2. **[Make WordPress — Latest Posts, WordPress Central section](https://make.wordpress.org/latest/#:~:text=A%20Shoutout%20to%20Meahadi%20Hasan)**  
-   Official cross-project post index showing the original feature under **WordPress Central**.
+## International Republications
 
-> **Navigation tip:** These are changing index pages, not permanent article URLs. The `#:~:text=` portion asks compatible browsers (such as Chrome or Brave) to jump to the feature title. If it does not jump, use **Find in Page** and search `Meahadi Hasan`. Entries may eventually rotate off the latest-posts page.
+The original WordCamp Central story also appeared on **52 other websites**. The publications below are grouped by country or website association, with the number of sites shown in each heading. Each website is listed **once**, and its name links directly to the article.
 
----
+<!-- Consistent column width hints for separate GitHub-rendered country tables. -->
 
-## International republications
+### 🇨🇦 Canada-associated — 2 websites
 
-The following **24 distinct websites** were documented with a page reproducing the WordCamp Central feature. Each website is listed **once**, and each link opens its **article page**, not its homepage or general news index.
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">01</td>
+      <td><a href="https://slamo.biochem.dal.ca/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Slamovits Lab (Dalhousie University)</a></td>
+      <td>University research lab</td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td><a href="https://awakecanada.org/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Awake Canada</a></td>
+      <td>Community / blog website</td>
+    </tr>
+  </tbody>
+</table>
 
-Country headings reflect a site's apparent location, domain, or branding; they are provided for navigation and should not be interpreted as independently verified corporate registration details.
+### 🇩🇪 Germany — 3 websites
 
-### 🇧🇷 Brazil — 6
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">03</td>
+      <td><a href="https://retgermany.org/2026/11/uncategorized/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">RET Germany</a></td>
+      <td>Organization website</td>
+    </tr>
+    <tr>
+      <td align="center">04</td>
+      <td><a href="https://www.s13a.de/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">S13A</a></td>
+      <td>Business website</td>
+    </tr>
+    <tr>
+      <td align="center">05</td>
+      <td><a href="https://kunstturnen-limburg.de/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kunstturnen Limburg</a></td>
+      <td>Sports / gymnastics club website</td>
+    </tr>
+  </tbody>
+</table>
 
-1. **[Tabloide 360](https://tabloide360.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — News portal.
-2. **[Aqui no Radar](https://aquinoradar.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — News portal.
-3. **[Pará Online](https://paraonline.com.br/esporte/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/127126/)** — News portal.
-4. **[Valor Capital](https://valorcapital.news/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — News and business website.
-5. **[Mundo Warpzone](https://mundowarpzone.com.br/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Pop culture and entertainment website.
-6. **[Jornal Impacto Guarulhos](https://jornalimpactoguarulhos.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — News portal.
+### 🇮🇳 India — 7 websites
 
-### 🇮🇳 India — 3
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">06</td>
+      <td><a href="https://www.softmag.in/business-intelligence/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">SOFTMAG (The Software Magazine)</a></td>
+      <td>Technology magazine</td>
+    </tr>
+    <tr>
+      <td align="center">07</td>
+      <td><a href="https://kisanrajdaily.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kisanraj Daily</a></td>
+      <td>Regional news publication</td>
+    </tr>
+    <tr>
+      <td align="center">08</td>
+      <td><a href="https://yadunewsnation.in/nation/52170/">Yadu News Nation</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">09</td>
+      <td><a href="https://www.hikmattimes.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Hikmat Times</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td><a href="https://rashiupdate.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Rashi Update</a></td>
+      <td>News &amp; information website</td>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td><a href="https://rtodaymp.com/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">R Today MP</a></td>
+      <td>Regional news website</td>
+    </tr>
+    <tr>
+      <td align="center">12</td>
+      <td><a href="https://thenewsvista.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">The News Vista</a></td>
+      <td>News website</td>
+    </tr>
+  </tbody>
+</table>
 
-7. **[SOFTMAG — The Software Magazine](https://www.softmag.in/business-intelligence/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Technology publication.
-8. **[Yadu News Nation](https://yadunewsnation.in/nation/52170/)** — News portal.
-9. **[Hikmat Times](https://www.hikmattimes.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — News portal.
+### 🇮🇹 Italy — 2 websites
 
-### 🇩🇪 Germany — 2
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">13</td>
+      <td><a href="https://azionecattolica.it/rss/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Azione Cattolica Italiana</a></td>
+      <td>Organization / RSS page</td>
+    </tr>
+    <tr>
+      <td align="center">14</td>
+      <td><a href="https://www.laroccaeassociati.com/senza-categoria/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">La Rocca e Associati</a></td>
+      <td>Professional services website</td>
+    </tr>
+  </tbody>
+</table>
 
-10. **[RET Germany](https://retgermany.org/2026/11/uncategorized/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Organization website.
-11. **[S13A](https://www.s13a.de/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Business website.
+### 🇪🇸 Spain — 1 website
 
-### 🇮🇹 Italy — 2
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">15</td>
+      <td><a href="https://fbhb.es/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Federació Balear d&#x27;Handbol (FBHB)</a></td>
+      <td>Sports federation website</td>
+    </tr>
+  </tbody>
+</table>
 
-12. **[Azione Cattolica Italiana](https://azionecattolica.it/rss/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Organization website, RSS section.
-13. **[La Rocca e Associati](https://www.laroccaeassociati.com/senza-categoria/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Professional services website.
+### 🇫🇷 France — 1 website
 
-### 🇨🇦 Canada-associated — 2
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">16</td>
+      <td><a href="https://www.valeurenergiebretagne.fr/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/publireportage/">Valeur Energie Bretagne</a></td>
+      <td>Industry magazine</td>
+    </tr>
+  </tbody>
+</table>
 
-14. **[Slamovits Lab, Dalhousie University](https://slamo.biochem.dal.ca/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — University research-laboratory website.
-15. **[Awake Canada](https://awakecanada.org/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Community/blog website.
+### 🇯🇵 Japan — 1 website
 
-### 🇪🇸 Spain — 1
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">17</td>
+      <td><a href="https://japow.co.jp/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">JAPOW</a></td>
+      <td>Tourism / outdoor website</td>
+    </tr>
+  </tbody>
+</table>
 
-16. **[Federació Balear d'Handbol (FBHB)](https://fbhb.es/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Sports federation website. The article also appears in its **Noticias** listing, which is **not counted again**.
+### 🇹🇭 Thailand — 1 website
 
-### 🇫🇷 France — 1
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">18</td>
+      <td><a href="https://rmagroup.co.th/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">RMA Group Thailand</a></td>
+      <td>Business website</td>
+    </tr>
+  </tbody>
+</table>
 
-17. **[Valeur Energie Bretagne](https://www.valeurenergiebretagne.fr/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/publireportage/)** — Magazine/industry website.
+### 🇿🇦 South Africa — 2 websites
 
-### 🇯🇵 Japan — 1
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">19</td>
+      <td><a href="https://www.gov24.co.za/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Gov24</a></td>
+      <td>Jobs &amp; information website</td>
+    </tr>
+    <tr>
+      <td align="center">20</td>
+      <td><a href="https://saice.org.za/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">SAICE</a></td>
+      <td>Professional engineering institution website</td>
+    </tr>
+  </tbody>
+</table>
 
-18. **[JAPOW](https://japow.co.jp/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Tourism/outdoor activities website.
+### 🇧🇩 Bangladesh — 1 website
 
-### 🇹🇭 Thailand — 1
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">21</td>
+      <td><a href="https://khaborbauphal24.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Khabor Bauphal 24</a></td>
+      <td>Local news website</td>
+    </tr>
+  </tbody>
+</table>
 
-19. **[RMA Group Thailand](https://rmagroup.co.th/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Business website.
+### 🇺🇸 United States-associated — 2 websites
 
-### 🇿🇦 South Africa — 1
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">22</td>
+      <td><a href="https://nnyocitytop5.tv/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">NNYO City Top 5</a></td>
+      <td>Local media / video website</td>
+    </tr>
+    <tr>
+      <td align="center">23</td>
+      <td><a href="https://standardvaluationllc.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Standard Valuation LLC</a></td>
+      <td>Valuation services website</td>
+    </tr>
+  </tbody>
+</table>
 
-20. **[Gov24](https://www.gov24.co.za/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Jobs/information website; not an official government publisher.
+### 🇮🇶 Iraq — 1 website
 
-### 🌐 Location not independently confirmed — 4
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">24</td>
+      <td><a href="https://kirkuknewscenter.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kirkuk News Center</a></td>
+      <td>News website</td>
+    </tr>
+  </tbody>
+</table>
 
-21. **[IWMSUISSE](https://www.iwmsuisse.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Swiss-branded website; exact operating location not independently confirmed.
-22. **[Globale Presse Info](https://globalepresse.info/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — French-language news website; country not confirmed.
-23. **[NYK WEEKELY — staging site](https://staging3.mawears.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Accessible article on a **staging subdomain**, not necessarily a production publication.
-24. **[WGSV](http://www.wgsv.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)** — Article seen in a user-provided browser screenshot; availability may depend on network or region.
+### 🇸🇦 Saudi Arabia — 1 website
 
----
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">25</td>
+      <td><a href="https://gts.sa/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">GTS</a></td>
+      <td>Business website</td>
+    </tr>
+  </tbody>
+</table>
 
-## Evidence snapshots
+### 🇧🇬 Bulgaria — 1 website
 
-Two screenshots are included as supporting evidence for the link archive. They document **what was visible in a real browser**, rather than guaranteeing that a website will remain online.
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">26</td>
+      <td><a href="https://newsmaker.bg/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Newsmaker</a></td>
+      <td>News / media website</td>
+    </tr>
+  </tbody>
+</table>
 
-<details>
-<summary><strong>View WGSV article screenshot</strong> (November 6, 2026 article)</summary>
+### 🇱🇰 Sri Lanka — 1 website
 
-![WGSV article showing the title, publication date, opening text, and portrait](assets/wgsv-article-screenshot.png)
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">27</td>
+      <td><a href="https://sripuwath.com/index.php/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Sripuwath</a></td>
+      <td>News website</td>
+    </tr>
+  </tbody>
+</table>
 
-</details>
+### 🇧🇷 Brazil — 8 websites
 
-<details>
-<summary><strong>View FBHB Noticias screenshot</strong> (article displayed in news listing)</summary>
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">28</td>
+      <td><a href="https://paraonline.com.br/esporte/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/127126/">Pará Online</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">29</td>
+      <td><a href="https://tabloide360.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Tabloide 360</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">30</td>
+      <td><a href="https://aquinoradar.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Aqui no Radar</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">31</td>
+      <td><a href="https://jornalimpactoguarulhos.com.br/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Jornal Impacto Guarulhos</a></td>
+      <td>News portal</td>
+    </tr>
+    <tr>
+      <td align="center">32</td>
+      <td><a href="https://valorcapital.news/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Valor Capital</a></td>
+      <td>Business &amp; news website</td>
+    </tr>
+    <tr>
+      <td align="center">33</td>
+      <td><a href="https://mundowarpzone.com.br/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Mundo Warpzone</a></td>
+      <td>Entertainment website</td>
+    </tr>
+    <tr>
+      <td align="center">34</td>
+      <td><a href="https://www.kakunoguitaracademy.com/pt/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kakuno Guitar Academy</a></td>
+      <td>Music education website</td>
+    </tr>
+    <tr>
+      <td align="center">35</td>
+      <td><a href="https://daytradewithsuccess.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Day Trade With Success</a></td>
+      <td>Trading education website</td>
+    </tr>
+  </tbody>
+</table>
 
-![FBHB Noticias listing showing the article title, portrait, and opening text](assets/fbhb-noticias-screenshot.png)
+### 🌐 Other / location unconfirmed — 17 websites
 
-</details>
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">36</td>
+      <td><a href="https://newviewnewsdesk.org/2026/11/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">New View News Desk</a></td>
+      <td>News &amp; media website</td>
+    </tr>
+    <tr>
+      <td align="center">37</td>
+      <td><a href="https://globalepresse.info/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Globale Presse Info</a></td>
+      <td>French-language news site</td>
+    </tr>
+    <tr>
+      <td align="center">38</td>
+      <td><a href="https://www.iwmsuisse.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">IWMSUISSE</a></td>
+      <td>Swiss-branded website</td>
+    </tr>
+    <tr>
+      <td align="center">39</td>
+      <td><a href="https://senangmarketplace.com/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Senang Marketplace</a></td>
+      <td>Property marketplace / business website</td>
+    </tr>
+    <tr>
+      <td align="center">40</td>
+      <td><a href="https://c2adigital.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">C2A Digital</a></td>
+      <td>Digital services website</td>
+    </tr>
+    <tr>
+      <td align="center">41</td>
+      <td><a href="https://fourheadrealtors.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Four Head Realtors</a></td>
+      <td>Real estate business website</td>
+    </tr>
+    <tr>
+      <td align="center">42</td>
+      <td><a href="http://www.wgsv.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">WGSV</a></td>
+      <td>Website / blog</td>
+    </tr>
+    <tr>
+      <td align="center">43</td>
+      <td><a href="https://staging3.mawears.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">NYK WEEKELY (Staging Page)</a></td>
+      <td>Staging website</td>
+    </tr>
+    <tr>
+      <td align="center">44</td>
+      <td><a href="https://naturaldrink.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Natural Drink</a></td>
+      <td>Beverage / business website</td>
+    </tr>
+    <tr>
+      <td align="center">45</td>
+      <td><a href="https://hydroexinternational.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Hydroex International</a></td>
+      <td>Business website</td>
+    </tr>
+    <tr>
+      <td align="center">46</td>
+      <td><a href="https://royaltmmtourism.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Royal TMM Tourism</a></td>
+      <td>Travel / tourism website</td>
+    </tr>
+    <tr>
+      <td align="center">47</td>
+      <td><a href="https://qlynx.com/uncategorized/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Qlynx</a></td>
+      <td>Business website</td>
+    </tr>
+    <tr>
+      <td align="center">48</td>
+      <td><a href="https://jd-inspection.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">JD Inspection</a></td>
+      <td>Inspection services website</td>
+    </tr>
+    <tr>
+      <td align="center">49</td>
+      <td><a href="https://dextrous3dprints.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Dextrous 3D Prints</a></td>
+      <td>3D printing business website</td>
+    </tr>
+    <tr>
+      <td align="center">50</td>
+      <td><a href="https://murderpedia.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Murderpedia</a></td>
+      <td>Reference / information website</td>
+    </tr>
+    <tr>
+      <td align="center">51</td>
+      <td><a href="https://boardgameslive.games/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Boardgameslive.games</a></td>
+      <td>Gaming website</td>
+    </tr>
+    <tr>
+      <td align="center">52</td>
+      <td><a href="https://sayrti.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Sayrti</a></td>
+      <td>Website / blog</td>
+    </tr>
+  </tbody>
+</table>
 
-## Publication background
+*Country headings reflect publicly identifiable website associations. Where a location could not be confidently established, the website appears in the final group.*
+
+## WordPress Credits & Contributions
+
+The WordCamp Central feature highlights several parts of my WordPress journey:
+
+- **Photography:** Contributed **66 original photographs** to the WordPress Photo Directory under CC0.
+- **Translation:** Contributed Bengali translations through the WordPress Polyglots Team.
+- **Training and localization:** Worked on Bengali localization of Learn WordPress educational content.
+- **Community participation:** Engaged with WordPress community initiatives and built my personal WordPress portfolio.
+
+### Journey Timeline
 
 | Date | Milestone |
-| :-- | :-- |
-| **August 2026** | Joined the WordPress Credits Program as part of university industrial training. |
-| **November 2, 2026** | Completed WordPress Credits. |
-| **November 6, 2026** | Featured on WordCamp Central in an article by Muhibul Haque. |
-| **November 6 onward** | Story appeared in WordPress's official aggregators and on a range of unrelated websites. |
+| :--- | :--- |
+| **August 2026** | Joined the WordPress Credits Program through my university's Industrial Training course. |
+| **November 2, 2026** | Completed the WordPress Credits Program. |
+| **November 6, 2026** | My journey was featured on WordCamp Central. |
+| **November 2026** | The feature appeared in official WordPress listings and on international websites. |
 
-**Contributions highlighted by the original feature:**
+## About Me
 
-- **66 original photographs** shared through the WordPress Photo Directory under CC0.
-- **Bengali translation contributions** through the WordPress Polyglots Team.
-- **Training-team localization work**, including a translated Learn WordPress lesson prepared for review.
-- **Community engagement** and a personal WordPress portfolio.
+I'm **Md. Meahadi Hasan**, a Computer Science and Engineering student at **Pundra University of Science & Technology, Bangladesh**, with an interest in open-source technology, web development, and community contribution.
 
-The assigned WordPress Credits mentor was **Rashed Hossain**. **Muhibul Haque** also provided guidance and is the author of the WordCamp Central story.
+- **WordPress:** [Contributor Profile](https://profiles.wordpress.org/meahadi/)
+- **GitHub:** [meahadi-hasan](https://github.com/meahadi-hasan)
+- **LinkedIn:** [Md. Meahadi Hasan](https://www.linkedin.com/in/md-meahadi-hasan)
+- **Portfolio:** [Personal Website](https://meahadi.blog/)
+- **Photo Contributions:** [WordPress Photo Directory](https://wordpress.org/photos/author/meahadi/)
+- **Certificate:** [WordPress Credits Completion](https://learn.wordpress.org/certificate/616521f1)
+- **Featured Story:** [WordCamp Central](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
 
-## Verification and archive policy
+## Acknowledgments
 
-- **Review date:** November 9, 2026.
-- Include a third-party URL only if it shows this specific WordCamp Central story, not merely another WordPress article.
-- Count **one distinct article page per website**. A site's homepage, category page, or news listing does not increase the total.
-- Keep **original publication**, **official WordPress listings**, and **third-party republications** separate.
-- **WGSV exception:** included with screenshot evidence from a successful browser visit. Automated retrieval could not confirm availability at review time.
-- Country labels are informative only; they are not a formal assessment of publisher ownership, editorial independence, or physical location.
-- New links should be checked for correct title, content, duplication, and accessibility before being added.
-- Some links may become unavailable, move, or require VPN/network access after this review.
+I am sincerely grateful to [Rashed Hossain](https://profiles.wordpress.org/wprashed/), my assigned WordPress Credits mentor, for his valuable guidance and continuous support throughout the program.
 
-## About Meahadi Hasan
+Special thanks to [Muhibul Haque](https://profiles.wordpress.org/devmuhib/) for his encouragement, helpful advice, and for featuring my journey on [WordCamp Central](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/).
 
-**Md. Meahadi Hasan** is a Computer Science and Engineering student at **Pundra University of Science & Technology, Bangladesh**, and a WordPress open-source contributor. His contributions and learning journey are the subject of the original feature.
-
-- [WordPress.org contributor profile](https://profiles.wordpress.org/meahadi/)
-- [GitHub profile](https://github.com/meahadi-hasan)
-- [Original WordCamp Central profile feature](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
-
-## Credits and attribution
-
-**Original article:** © its respective author/publisher. Written by [Muhibul Haque](https://central.wordcamp.org/news/author/devmuhib/) and published on [WordCamp Central](https://central.wordcamp.org/). This repository links to the original instead of reproducing the copyrighted full text.
-
-**Archive and compilation:** Md. Meahadi Hasan. The third-party websites are listed for documentation only; no endorsement, sponsorship, affiliation, or independent editorial coverage is implied. This is a personal archive, **not an official WordPress project or publication**.
+I am also thankful to the WordPress community for providing opportunities to learn, contribute, and grow.
 
 ---
+
 
 <div align="center">
 
-**One original community story. A documented international online footprint.**
+**From learning WordPress to contributing to its global community.**
 
-[Back to top](#from-the-classroom-to-the-global-wordpress-community) · [Read the original feature](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
+*An independently maintained personal publication archive. Original articles and related content remain the work of their respective authors and publishers.*
+
+[Back to Top](#my-global-wordpress-journey) · [Original Feature](https://central.wordcamp.org/news/2026/11/a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/)
 
 </div>
