@@ -80,7 +80,7 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
 
 <!-- Consistent column width hints for separate GitHub-rendered country tables. -->
 
-### 🇨🇦 Canada-associated — 2 websites
+### 🇧🇩 Bangladesh — 1 website
 
 <table>
   <thead>
@@ -93,18 +93,32 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   <tbody>
     <tr>
       <td align="center">01</td>
-      <td><a href="https://slamo.biochem.dal.ca/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Slamovits Lab (Dalhousie University)</a></td>
-      <td>University research lab</td>
-    </tr>
-    <tr>
-      <td align="center">02</td>
-      <td><a href="https://awakecanada.org/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Awake Canada</a></td>
-      <td>Community / blog website</td>
+      <td><a href="https://khaborbauphal24.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Khabor Bauphal 24</a></td>
+      <td>Local news website</td>
     </tr>
   </tbody>
 </table>
 
-### 🇩🇪 Germany — 3 websites
+### 🇧🇬 Bulgaria — 1 website
+
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">02</td>
+      <td><a href="https://newsmaker.bg/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Newsmaker</a></td>
+      <td>News / media website</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🇨🇦 Canada-associated — 2 websites
 
 <table>
   <thead>
@@ -117,18 +131,13 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   <tbody>
     <tr>
       <td align="center">03</td>
-      <td><a href="https://retgermany.org/2026/11/uncategorized/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">RET Germany</a></td>
-      <td>Organization website</td>
+      <td><a href="https://slamo.biochem.dal.ca/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Slamovits Lab (Dalhousie University)</a></td>
+      <td>University research lab</td>
     </tr>
     <tr>
       <td align="center">04</td>
-      <td><a href="https://www.s13a.de/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">S13A</a></td>
-      <td>Business website</td>
-    </tr>
-    <tr>
-      <td align="center">05</td>
-      <td><a href="https://kunstturnen-limburg.de/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kunstturnen Limburg</a></td>
-      <td>Sports / gymnastics club website</td>
+      <td><a href="https://awakecanada.org/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Awake Canada</a></td>
+      <td>Community / blog website</td>
     </tr>
   </tbody>
 </table>
@@ -145,38 +154,105 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">06</td>
+      <td align="center">05</td>
       <td><a href="https://www.softmag.in/business-intelligence/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">SOFTMAG (The Software Magazine)</a></td>
       <td>Technology magazine</td>
     </tr>
     <tr>
-      <td align="center">07</td>
+      <td align="center">06</td>
       <td><a href="https://kisanrajdaily.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kisanraj Daily</a></td>
       <td>Regional news publication</td>
     </tr>
     <tr>
-      <td align="center">08</td>
+      <td align="center">07</td>
       <td><a href="https://yadunewsnation.in/nation/52170/">Yadu News Nation</a></td>
       <td>News portal</td>
     </tr>
     <tr>
-      <td align="center">09</td>
+      <td align="center">08</td>
       <td><a href="https://www.hikmattimes.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Hikmat Times</a></td>
       <td>News portal</td>
     </tr>
     <tr>
-      <td align="center">10</td>
+      <td align="center">09</td>
       <td><a href="https://rashiupdate.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Rashi Update</a></td>
       <td>News &amp; information website</td>
     </tr>
     <tr>
-      <td align="center">11</td>
+      <td align="center">10</td>
       <td><a href="https://rtodaymp.com/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">R Today MP</a></td>
       <td>Regional news website</td>
     </tr>
     <tr>
-      <td align="center">12</td>
+      <td align="center">11</td>
       <td><a href="https://thenewsvista.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">The News Vista</a></td>
+      <td>News website</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🇩🇪 Germany — 3 websites
+
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">12</td>
+      <td><a href="https://retgermany.org/2026/11/uncategorized/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">RET Germany</a></td>
+      <td>Organization website</td>
+    </tr>
+    <tr>
+      <td align="center">13</td>
+      <td><a href="https://www.s13a.de/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">S13A</a></td>
+      <td>Business website</td>
+    </tr>
+    <tr>
+      <td align="center">14</td>
+      <td><a href="https://kunstturnen-limburg.de/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kunstturnen Limburg</a></td>
+      <td>Sports / gymnastics club website</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🇫🇷 France — 1 website
+
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">15</td>
+      <td><a href="https://www.valeurenergiebretagne.fr/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/publireportage/">Valeur Energie Bretagne</a></td>
+      <td>Industry magazine</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🇮🇶 Iraq — 1 website
+
+<table>
+  <thead>
+    <tr>
+      <th width="50" align="center">#</th>
+      <th width="360" align="left">Website · Direct Article Link</th>
+      <th width="230" align="left">Website Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">16</td>
+      <td><a href="https://kirkuknewscenter.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kirkuk News Center</a></td>
       <td>News website</td>
     </tr>
   </tbody>
@@ -194,12 +270,12 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">13</td>
+      <td align="center">17</td>
       <td><a href="https://azionecattolica.it/rss/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Azione Cattolica Italiana</a></td>
       <td>Organization / RSS page</td>
     </tr>
     <tr>
-      <td align="center">14</td>
+      <td align="center">18</td>
       <td><a href="https://www.laroccaeassociati.com/senza-categoria/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">La Rocca e Associati</a></td>
       <td>Professional services website</td>
     </tr>
@@ -218,28 +294,9 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">15</td>
+      <td align="center">19</td>
       <td><a href="https://fbhb.es/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Federació Balear d&#x27;Handbol (FBHB)</a></td>
       <td>Sports federation website</td>
-    </tr>
-  </tbody>
-</table>
-
-### 🇫🇷 France — 1 website
-
-<table>
-  <thead>
-    <tr>
-      <th width="50" align="center">#</th>
-      <th width="360" align="left">Website · Direct Article Link</th>
-      <th width="230" align="left">Website Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">16</td>
-      <td><a href="https://www.valeurenergiebretagne.fr/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/publireportage/">Valeur Energie Bretagne</a></td>
-      <td>Industry magazine</td>
     </tr>
   </tbody>
 </table>
@@ -256,7 +313,7 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">17</td>
+      <td align="center">20</td>
       <td><a href="https://japow.co.jp/2026/11/06/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">JAPOW</a></td>
       <td>Tourism / outdoor website</td>
     </tr>
@@ -275,7 +332,7 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">18</td>
+      <td align="center">21</td>
       <td><a href="https://rmagroup.co.th/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">RMA Group Thailand</a></td>
       <td>Business website</td>
     </tr>
@@ -294,33 +351,14 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">19</td>
+      <td align="center">22</td>
       <td><a href="https://www.gov24.co.za/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Gov24</a></td>
       <td>Jobs &amp; information website</td>
     </tr>
     <tr>
-      <td align="center">20</td>
+      <td align="center">23</td>
       <td><a href="https://saice.org.za/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">SAICE</a></td>
       <td>Professional engineering institution website</td>
-    </tr>
-  </tbody>
-</table>
-
-### 🇧🇩 Bangladesh — 1 website
-
-<table>
-  <thead>
-    <tr>
-      <th width="50" align="center">#</th>
-      <th width="360" align="left">Website · Direct Article Link</th>
-      <th width="230" align="left">Website Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">21</td>
-      <td><a href="https://khaborbauphal24.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Khabor Bauphal 24</a></td>
-      <td>Local news website</td>
     </tr>
   </tbody>
 </table>
@@ -337,33 +375,14 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">22</td>
+      <td align="center">24</td>
       <td><a href="https://nnyocitytop5.tv/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">NNYO City Top 5</a></td>
       <td>Local media / video website</td>
     </tr>
     <tr>
-      <td align="center">23</td>
+      <td align="center">25</td>
       <td><a href="https://standardvaluationllc.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Standard Valuation LLC</a></td>
       <td>Valuation services website</td>
-    </tr>
-  </tbody>
-</table>
-
-### 🇮🇶 Iraq — 1 website
-
-<table>
-  <thead>
-    <tr>
-      <th width="50" align="center">#</th>
-      <th width="360" align="left">Website · Direct Article Link</th>
-      <th width="230" align="left">Website Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">24</td>
-      <td><a href="https://kirkuknewscenter.com/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Kirkuk News Center</a></td>
-      <td>News website</td>
     </tr>
   </tbody>
 </table>
@@ -380,28 +399,9 @@ The original WordCamp Central story also appeared on **52 other websites**. The 
   </thead>
   <tbody>
     <tr>
-      <td align="center">25</td>
+      <td align="center">26</td>
       <td><a href="https://gts.sa/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">GTS</a></td>
       <td>Business website</td>
-    </tr>
-  </tbody>
-</table>
-
-### 🇧🇬 Bulgaria — 1 website
-
-<table>
-  <thead>
-    <tr>
-      <th width="50" align="center">#</th>
-      <th width="360" align="left">Website · Direct Article Link</th>
-      <th width="230" align="left">Website Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">26</td>
-      <td><a href="https://newsmaker.bg/wordcamp-central-a-shoutout-to-meahadi-hasan-from-the-classroom-to-the-global-wordpress-community/">Newsmaker</a></td>
-      <td>News / media website</td>
     </tr>
   </tbody>
 </table>
